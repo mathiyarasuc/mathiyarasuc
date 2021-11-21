@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 
 <p align="center">
@@ -15,48 +15,33 @@
 </p>
 </p>
 
-<p align="center">
-  <em>
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India%20-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil%20%26%20Telugu-brightgreen" />
 </p>
 <hr>
 <p align="center">
   <em>
-    Hello, I am Mathiyarasu a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Mathiyarasu a <b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b>, Bangalore, Karnataka, India (" Wisdom is all wealth ")</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ 
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-
-**mathiyarasuc/mathiyarasuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-✅ 😏 I'm fluent in ***Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing***.
+✅ 😏 I'm fluent in ***Data Analytics, Machine Learning, and Deep Learning***.
 
 ✅ 🧐 Currently I am advancing in Graph Embeddings, Graph Machine Learning, and Graph Neural Networks.
 
-✅ 🧐 I am a ***Kaggle Master***.
-  
 ✅ 😇 Open for ***project collaborations***.
 
 ✅ 😄 My trust lies in data. Ssshhh! Data is whispering.
@@ -71,23 +56,20 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code><img height="50" src="https://iconape.com/wp-content/files/wd/352572/svg/352572.svg"></code><code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> </code>
   <code> <img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> </code>
 
   <code> <img height="50" src="https://avatars.githubusercontent.com/u/58118658?v=4"> </code>
   <code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/git-1-226092.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"> </code>
   <code> <img height="50" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"> </code>
  </code>
   <hr>
   <p align="center">
  <i><b>GitHub Stats</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubeyakshat07&show_icons=true&locale=en&layout=compact" alt="akshatdubey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact" alt="mathiyarasuc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubeyakshat07&show_icons=true&locale=en" alt="akshatdubey" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathiyarasuc&show_icons=true&locale=en" alt="mathiyarasuc" width="410" /></p>
 
 <hr>
