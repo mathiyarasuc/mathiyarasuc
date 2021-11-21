@@ -25,9 +25,7 @@
 <hr>
 <p align="center">
   <em>
-    Hello, I am Mathiyarasu a <b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b>, Bangalore, Karnataka, India (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    Hello, I am Mathiyarasu a <b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b>, Bangalore, Karnataka, India (" Wisdom is all wealth ")</a>. <br><b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
    <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>First solve the problem, then write the code ❤️</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
@@ -68,10 +66,3 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
  </code>
   <hr>
-  <p align="center">
- <i><b>GitHub Stats</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact" alt="mathiyarasuc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathiyarasuc&show_icons=true&locale=en" alt="mathiyarasuc" width="410" /></p>
-
-<hr>
