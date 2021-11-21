@@ -25,7 +25,7 @@
 <hr>
 <p align="center">
   <em>
-    Hello, I am Mathiyarasu did my<b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b>, Bangalore, Karnataka, India (" Wisdom is all wealth ")</a>.<b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    Hello, I am Mathiyarasu did my<b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b>, Bangalore, Karnataka, India (" Wisdom is all wealth ")</a>.<b> A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
    <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>First solve the problem, then write the code ❤️</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
