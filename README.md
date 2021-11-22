@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <hr>
 <p align="center">
  <i><b>GitHub Stats</b></i></p>
- <p img align="center">
+ <p align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact" alt="mathiyarasuc" height="200"/></p>
 
 <hr>
