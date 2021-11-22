@@ -66,9 +66,13 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
  </code>
   <hr>
+  <p align="center">
+ <i><b>Mathiyarasu's GitHub Stats</b></i></p>
 ---
 
-! [Mathiyarasu's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ---
+*"We have to go from what is essentially an industrial model of education, a manufacturing model, which is based on linearity and conformity and batching people. We have to move to a model that is based more on principles of agriculture. We have to recognize that human flourishing is not a mechanical process; it’s an organic process. And you cannot predict the outcome of human development. All you can do, like a farmer, is create the conditions under which they will begin to flourish."*
 
+*- [Sir Ken Robinson](https://www.youtube.com/watch?time_continue=2&v=iG9CE55wbtY&feature=emb_logo) -*
