@@ -66,11 +66,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
  </code>
   <hr>
-<p align="center">
- <i><b>GitHub Stats</b></i></p>
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact" alt="mathiyarasuc" height="200"/>
-</p>
+![Mathiyarasu's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mathiyarasuc&show_icons=true&locale=en&layout=compact&theme=dark)
 
 <hr>
 
