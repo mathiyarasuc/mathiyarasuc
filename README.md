@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mathiyarasu</h1>
-<h3 align="center"> Data Analysis | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | Statistics & Mathematics Enthusiast</h3>
+<h3 align="center"> Cloud Architect | AWS | Azure | GCP | Terraform | Ansible </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mathiyarasu-c-607275151/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="@mathiyarasuc" height="50" width="70" /></a><a href="https://www.kaggle.com/mathiyarasuc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="@mathiyarasuc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mathiyarasu_reddy/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="mathiyarasu_reddy" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 <hr>
 <p align="center">
   <em>
-    Hello, I am Mathiyarasu <b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b></a>, Bangalore, Karnataka, India ("Wisdom is all wealth").<b> A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of data which are hidden in the data. 
+    Hello, I am Mathiyarasu <b>completed my</b> postgraduate from <a href="https://jagsom.com/"> <b>Jagdish Sheth School of Management</b></a>, Bangalore, Karnataka, India ("Wisdom is all wealth").<b> A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cloud Architect </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>Data science</b> and always looking for new oppurtunities for growth. 
   </em> 
    <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>First solve the problem, then write the code ❤️</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
@@ -38,17 +38,15 @@
 
 Here are some ideas to get you started:
 
-✅ 😏 I'm fluent in ***Data Analytics, Machine Learning, and Deep Learning***.
+✅ 😏 I'm fluent in ***Terraform, Ansible, and Cloud formation***.
 
-✅ 🧐 Currently I am advancing in Graph Embeddings, Graph Machine Learning, and Graph Neural Networks.
+✅ 🧐 Currently I am advancing in AWS, Azure and gcp.
 
 ✅ 😇 Open for ***project collaborations***.
 
-✅ 😄 My trust lies in data. Ssshhh! Data is whispering.
+✅ 😄 Done my AWS Solutions Architect Professional certification.
 
 ✅ 😍 My opinion about you: Without data you're just another person with an opinion.
-
-✅ ⚡ Fun fact: In the next 10 years, Data Science will do more for medicine than all the ***biological sciences combined***. --- **Vinod Khosla(Co-Founder of Sun Microsystems)**
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I have experience with.***
 <p align="left">
